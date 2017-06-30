@@ -1,0 +1,4 @@
+ 1、pip install 安装
+ 如果安装包过大或者网络原因安装失败，可以指定镜像下载安装
+ 如果安装失败，可能是版本问题，降个版本即可
+ pip  install --index https://pypi.mirrors.ustc.edu.cn/simple/   包名
