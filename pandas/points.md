@@ -14,3 +14,8 @@ import pandas as pd
 header = ['name','age','addr']  
 
 fp = pd.read_csv("test.csv",names=header)  
+
+
+3、pandas设置索引  
+参考：  
+http://www.cnblogs.com/hhh5460/p/7067928.html
